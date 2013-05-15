@@ -33,7 +33,7 @@ o++;
 }
 else
 {
-printf ("Isso nao e homem, nem mulher!\n");
+printf ("Sexo Digitado e invalido.\n");
 }
 }
 }
