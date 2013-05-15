@@ -42,7 +42,7 @@ int main ()
 	perF=(fs*100)/(fs+fn);
 	printf ("  %d pessoas responderam sim!\n",rs);
 	printf ("  %d pessoas responderam nao!\n",rn);
-	printf ("A percentagem de mulheres que responderam sim foi de: %f!\n",perF);
-	printf ("A percentagem de homens que responderam nao foi de: %f!\n",perM);
+	printf ("A porcentagem de mulheres que responderam sim foi de: %f!\n",perF);
+	printf ("A porcentagem de homens que responderam nao foi de: %f!\n",perM);
 	
 }
