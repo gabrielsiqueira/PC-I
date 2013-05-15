@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-void main() {
+int main() {
   int tmpTt, tmpHr, tmpMm, tmpSg;
   float msInicial, msFinal;
 
