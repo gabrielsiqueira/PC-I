@@ -35,10 +35,6 @@ int main()
         x = 8;
         y = 16;
       }
-      else
-      {
-        printf("Número de operários é inválido.");
-      }
     }
   }
   printf("O lúcro máximo é: %.2f\nO número de operários na linha standart é: %d\nO número de operários na linhas luxo é: %d\nO numero de radios standart é: %d\nO numero de radios luxo é: %d",l,a,b,x,y);
