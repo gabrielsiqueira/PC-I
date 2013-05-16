@@ -2,7 +2,7 @@
 
 int main( void )
 {
-    int di, mi, ai, df, mf, af, i, ans;	
+   	int di, mi, ai, df, mf, af, i, ans;	
 	// d, m, a = dia, mes, ano
 	// i, f = inicial, final
 
