@@ -10,6 +10,8 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summar
 --> Finalizando - Exercício pronto, mas falta: testar e / ou comentar a solução.
 
 -->Terminando - Exercício escrito, testado e comentado
+
+
 ====
 
 1 - Finalizando
