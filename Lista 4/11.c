@@ -59,7 +59,7 @@ do {
   }
 
 
-     Vtotal2 += total;
+     total2 += total;
 
     printf("Maior numero de candidatos: %f do curso %d\n", cpor_vaga, curso);
 
