@@ -38,7 +38,7 @@ Os arquivos est�o separados em fases, que ser�o identificadas nos "Commit su
 
 12 - N�o iniciado
 
-13 - N�o iniciado
+13 - Finalizado
 
 14 - N�o iniciado
 
@@ -48,7 +48,7 @@ Os arquivos est�o separados em fases, que ser�o identificadas nos "Commit su
 
 17 - N�o iniciado
 
-18 - N�o iniciado
+18 - Em desenvolvimento (Mickaella Alves)
 
 19 - Iniciado
 
