@@ -10,11 +10,11 @@ int main()
         d = sqrt((pow((x2-x1),2)+pow((y2-y1),2)));
         if(x1!=0 && y1!=0 && x2!=0 && y2!=0)
         {
-            printf("As distâncias são: %.2f\n",d);
+            printf("Aa distancia Ã©: %.2f\n",d);
         }
         else
         {
-            printf("Sessão finalizada");
+            printf("Sessao finalizada");
         }
     }
 }
