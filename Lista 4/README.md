@@ -36,7 +36,7 @@ Os arquivos est�o separados em fases, que ser�o identificadas nos "Commit su
 
 11 - N�o iniciado
 
-12 - N�o iniciado
+12 - Em desenvolvimento (lindo e fabuloso LeRaito)
 
 13 - Finalizado
 
