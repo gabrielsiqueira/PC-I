@@ -9,7 +9,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 --> Finalizando - Exercício pronto, mas falta: testar e / ou comentar a solução.
 
--->Terminando - Exercício escrito, testado e comentado
+--> Terminado - Exercício escrito, testado e comentado
 
 
 ====
