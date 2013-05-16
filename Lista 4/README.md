@@ -1,15 +1,15 @@
 Lista 4
 ====
 
-Os arquivos estão separados em fases, que serão identificadas nos "Commit summary", para facilitar a identificação do progresso de desenvolvimento dos mesmos. As fases estão divididas em:
+Os arquivos estï¿½o separados em fases, que serï¿½o identificadas nos "Commit summary", para facilitar a identificaï¿½ï¿½o do progresso de desenvolvimento dos mesmos. As fases estï¿½o divididas em:
 
---> Não iniciado
+--> Nï¿½o iniciado
 
 --> Em desenvolvimento ( nick do desenvolvedor )
 
---> Finalizando - Exercício pronto, mas falta: testar e / ou comentar a solução.
+--> Finalizando - Exercï¿½cio pronto, mas falta: testar e / ou comentar a soluï¿½ï¿½o.
 
--->Terminando - Exercício escrito, testado e comentado
+-->Terminando - Exercï¿½cio escrito, testado e comentado
 
 
 ====
@@ -34,25 +34,25 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summar
 
 10 - Finalizando
 
-11 - Não iniciado
+11 - Nï¿½o iniciado
 
-12 - Não iniciado
+12 - Nï¿½o iniciado
 
-13 - Não iniciado
+13 - Nï¿½o iniciado
 
-14 - Não iniciado
+14 - Nï¿½o iniciado
 
-15 - Não iniciado
+15 - Nï¿½o iniciado
 
 16 - Em desenvolvimento ( Murilo-Shindi )
 
-17 - Não iniciado
+17 - Nï¿½o iniciado
 
-18 - Não iniciado
+18 - Nï¿½o iniciado
 
-19 - Não iniciado
+19 - Iniciado
 
-20 - Não iniciado
+20 - Finalizando
 
 21 - Finalizando
 
