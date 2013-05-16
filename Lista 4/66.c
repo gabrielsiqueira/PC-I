@@ -12,7 +12,7 @@ int main()
             z = z*z;
             if(x==z)
             {
-                printf("Palíndromo e cubo perfeito %d\n",x);
+                printf("Palindromo e cubo perfeito %d\n",x);
             }
         }
         if(x>9 && x<100)
@@ -24,7 +24,7 @@ int main()
             y = y*10+um;
             if(x==z && x==y)
             {
-                printf("Palíndromo e cubo perfeito %d\n",x);
+                printf("Palindromo e cubo perfeito %d\n",x);
             }
         }
         if(x>99 && x<1000)
@@ -38,7 +38,7 @@ int main()
             y = y*100+um*10+c;
             if(x==z && x==y)
             {
-                printf("Palíndromo e cubo perfeito %d\n",x);
+                printf("Palindromo e cubo perfeito %d\n",x);
             }
         }
         if(x>999 && x<=10000)
@@ -54,7 +54,7 @@ int main()
             y = y*1000+um*100+c*10+d;
             if(x==z && x==y)
             {
-                printf("Palíndromo e cubo perfeito %d\n",x);
+                printf("Palindromo e cubo perfeito %d\n",x);
             }
         }
         x = x + 1;
