@@ -50,7 +50,7 @@ Os arquivos est�o separados em fases, que ser�o identificadas nos "Commit su
 
 18 - Em desenvolvimento (Mickaella Alves)
 
-19 - Iniciado
+19 - Em desenvolvimento(Douglas Tonetto)
 
 20 - Finalizando
 
