@@ -44,7 +44,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 15 - Não iniciado
 
-16 - Em desenvolvimento ( Murilo-Shindi )
+16 - Finalizado
 
 17 - Não iniciado
 
