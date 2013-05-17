@@ -78,7 +78,7 @@ scanf("%d", &X);
     porcentagem_de_reprovados =  (((float)reprovado_falta)/X)*100;
 
 
-    printf("\nMaior nota: %f\nMenor nota: %f\n", maior, menor);
+    printf("\nMaior nota: %.2f\nMenor nota: %.2f\n", maior, menor);
     printf("\nMedia da turma: %.2f\n", ((float)nota_final)/X);// aki é %f ta nao %d
     //O Erro do código está aqui, não sei onde estou n00bando ou porquê.
     //printf("\nTotal de alunos reprovados: %d.\n", total_reprovado); vc ja pois em cima
