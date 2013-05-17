@@ -40,13 +40,13 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 13 - Finalizado
 
-14 - Em desenvolvimento (Pedro Vaz)
+14 - Terminado
 
 15 - Não iniciado
 
 16 - Terminado (Murilo-Shindi)
 
-17 - Não iniciado
+17 - Em desenvolvimento (Pedro Vaz)
 
 18 - Em desenvolvimento (Mickaella Alves)
 
