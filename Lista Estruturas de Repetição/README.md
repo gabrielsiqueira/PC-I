@@ -24,9 +24,9 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 5 - Finalizando
 
-6 - Finalizando
+6 - Finalizando 
 
-7 - Finalizando
+7 - Finalizando 
 
 8 - Finalizando
 
@@ -36,7 +36,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 11 - Finalizado
 
-12 - Finalizado
+12 - Terminado (LeRaito)
 
 13 - Finalizado
 
