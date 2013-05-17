@@ -16,7 +16,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 1 - Terminado
 
-2 - Finalizando
+2 - Terminado
 
 3 - Finalizando
 
