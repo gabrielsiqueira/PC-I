@@ -14,7 +14,7 @@ int main( void )
 	// Testa todos os valores de lucro e deixa salvo em maxl,maxi e maxp apenas 
 	// os valores do maior lucro, dos ingressos referentes a esse lucro e o preco
 	// dos ingressos para esse lucro,respectivamente.
-	if ( lucro > maxl )
+		if ( lucro > maxl )
 		{
 			maxl = lucro;
 			maxi = ingresso;
