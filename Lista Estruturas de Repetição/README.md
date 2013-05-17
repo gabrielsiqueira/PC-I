@@ -34,7 +34,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 10 - Terminado (Murilo-Shindi)
 
-11 - Finalizando
+11 - Finalizado
 
 12 - Em desenvolvimento (lindo e fabuloso LeRaito)
 
