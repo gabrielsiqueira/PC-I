@@ -13,7 +13,8 @@ int main ()
     int i=0;
     float porcentagem_de_reprovados;
 
-    printf("\nDigite a quantidade de alunos:\n");//Como o enunciado ficou confuso e contraditório ao exemplo, optei por seguir o exemplo de saída e entrada.
+    printf("\nDigite a quantidade de alunos:\n");//Como o enunciado ficou confuso e contraditório ao exemplo...
+    //optei por seguir o exemplo de saída e entrada.
     scanf("%d", &X);
 
     for(i=0; i<X; i++)
