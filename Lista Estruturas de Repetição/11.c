@@ -40,8 +40,7 @@ do {
    printf("\n");
 
 
-   printf("Forneca o numero de candidatos do sexo feminino: ");// isso é desnecessario
-   scanf("%d", &fem);
+   printf("Forneca o numero de candidatos do sexo feminino: ");
 
 
    printf("\n");
@@ -67,7 +66,7 @@ do {
     total2 += total; // para cada caso de teste, lembre q as variaveis sao substituidas !
     if(maior_vaga < cpor_vaga){// verifica para cada caso qual é o maior
         maior_vaga = cpor_vaga;
-        curso = codigo_curso;// aki pega o cod do curso
+        curso = codigo_curso;// aqui é pego o código do curso
 
     }
 
@@ -77,25 +76,8 @@ do {
 
 
 
-// o erro está aki tambem, cpor_vaga é sempre maior q maior_vaga que é 0, e sempre do ultimo caso de teste;
-  /*if (cpor_vaga > maior_vaga){
 
-
-
-
-    maior_vaga = total;
-    curso = codigo_curso;
-
-
-  }*/
-
-
-
-
-    // total2 += total; aki total 2 sempre vai ser 0+ total do ultimo caso de teste
-
-
-    printf("Maior numero de candidatos: %f do curso %d\n", maior_vaga, curso);
+    printf("Maior numero de candidatos: %.2f do curso %d\n", maior_vaga, curso);
 
 
 
