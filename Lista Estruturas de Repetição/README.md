@@ -34,8 +34,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 10 - Finalizando
 
-11 - Iniciado. Mas precisa de revisão na segunda parte: Determinar o maior número de candidatos por vaga e escrever esse número juntamente com o
-código do curso correspondente (não consegui fazer funcionar)
+11 - Finalizado
 
 12 - Em desenvolvimento (lindo e fabuloso LeRaito)
 
