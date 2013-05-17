@@ -36,7 +36,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 11 - Finalizado
 
-12 - Em desenvolvimento (lindo e fabuloso LeRaito)
+12 - Finalizado
 
 13 - Finalizado
 
