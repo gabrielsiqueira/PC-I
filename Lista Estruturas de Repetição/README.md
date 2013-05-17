@@ -42,7 +42,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 14 - Terminado
 
-15 - Não iniciado
+15 - Em desenvolvimento (divo, lindo e tesudo LeRaito)
 
 16 - Terminado (Murilo-Shindi)
 
