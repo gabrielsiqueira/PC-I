@@ -46,7 +46,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 16 - Terminado (Murilo-Shindi)
 
-17 - Em desenvolvimento (Pedro Vaz)
+17 - Finalizando (Caso tenha sido isso que o enunciado pediu, o programa está terminado!)
 
 18 - Em desenvolvimento (Mickaella Alves)
 
