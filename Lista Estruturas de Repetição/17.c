@@ -11,9 +11,9 @@ int main( void )
 	{
 		lucro = preco * ingresso - 200;
 
-	// Testa todos os valores de lucro e deixa salvo em maxl,maxi e maxp apenas 
-	// os valores do maior lucro, dos ingressos referentes a esse lucro e o preco
-	// dos ingressos para esse lucro,respectivamente.
+		// Testa todos os valores de lucro e deixa salvo em maxl,maxi e maxp apenas 
+		// os valores do maior lucro, dos ingressos referentes a esse lucro e o preco
+		// dos ingressos para esse lucro,respectivamente.
 		if ( lucro > maxl )
 		{
 			maxl = lucro;
