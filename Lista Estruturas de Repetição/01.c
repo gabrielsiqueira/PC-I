@@ -24,7 +24,7 @@ int main()
         }
     }
     idade = z/y;
-    //Avisa caso nenhuma idade tenha sido enserida.
+    //Avisa caso nenhuma idade tenha sido inserida.
     if(y == 0)
     {
         printf("Nenhuma idade foi inserida");
