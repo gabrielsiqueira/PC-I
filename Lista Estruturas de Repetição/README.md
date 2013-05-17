@@ -1,4 +1,4 @@
-Lista 4
+Lista Estruturas de Repetição
 ====
 
 Os arquivos estão separados em fases, que serão identificadas nos "Commit summary", para facilitar a identificação do progresso de desenvolvimento dos mesmos. As fases estão divididas em:
