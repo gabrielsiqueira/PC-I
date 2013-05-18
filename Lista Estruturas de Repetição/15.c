@@ -31,6 +31,10 @@ int main (void)
 
     printf ( "\nInforme o numero da conta:\n");
     scanf (" %d", &conta);
+        if (conta==0)//Caso a conta for 0, o programa pula direto para o final!
+    {
+    	goto loop;
+    }
 
 	printf ("\nInforme o valor do saldo atual:\n");
 	scanf (" %f", &saldo);
@@ -72,6 +76,7 @@ int main (void)
 	}
 
         //Agora decide o que será mostrado:
+        loop:
 
 	if ( saldo < minimo )
 		{
