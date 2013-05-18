@@ -31,11 +31,9 @@ int main (void)
 
     printf ( "\nInforme o numero da conta:\n");
     scanf (" %d", &conta);
-        if (conta==0)//Caso a conta for 0, o programa pula direto para o final!
-    {
-    	goto loop;
-    }
 
+    while (conta!=0)
+     {
 	printf ("\nInforme o valor do saldo atual:\n");
 	scanf (" %f", &saldo);
 
@@ -49,7 +47,7 @@ int main (void)
 	printf ("\nInforme o valor da taxa de servico (em porcento):\n");
 	scanf(" %f", &taxa);
 
-	while (trans!=0)
+	while(trans>0)
 	{
 		// Leitura dos valores das contas:
 
@@ -75,8 +73,7 @@ int main (void)
 		trans--;
 	}
 
-        //Agora decide o que será mostrado:
-        loop:
+//Agora decide o que será mostrado:
 
 	if ( saldo < minimo )
 		{
@@ -88,4 +85,5 @@ int main (void)
 		{
 			printf ("\nNUMERO DA CONTA: %d.\nSALDO FINAL: %.2f.\n", conta, saldo);
 		}
+     }
 }
