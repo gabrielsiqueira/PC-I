@@ -1,6 +1,20 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//Os bancos atualizam diariamente as contas de seus clientes.
+//Essa atualização envolve a análise dos depósitos e retiradas de cada conta.
+//Numa conta de saldo mínimo, uma taxa de serviço édeduzida se a conta cai abaixo
+//de uma certa quantia especificada.
+//A primeira linha contem o numero da conta, o valor do saldo atual
+//e do saldo mínimo diário,quantidade de transações e taxa de serviço;
+//As linhas seguintes contem o valor e o código da transação ( depósito ou retirada );
+//Calcule o saldo ( saldo/débito ) da conta ao fim do dia
+//( se o resultado for negativo, isto
+//significa insuficiência de fundos na conta );
+//Escreva , para cada conta, o seu número e o saldo calculado.
+// Se não houver fundos, imprimao número da conta e a mensagem “ NÃO HÁ FUNDOS ”;
+//Utilize como flag o número da conta igual a zero;
+
 int main (void)
 {
 	// declaracao das variaveis
