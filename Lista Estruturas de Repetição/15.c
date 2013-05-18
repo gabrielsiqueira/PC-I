@@ -17,7 +17,7 @@
 
 int main (void)
 {
-	// declaracao das variaveis
+	// Declaração das variáveis:
 
     float minimo;// balanco minimo diario
 	int trans = 0;// quantidade de transacoes do dia
@@ -27,7 +27,7 @@ int main (void)
 	char tipo;// tipo da transacao (d-deposito, r-retirada)
 	float saldo;// saldo da conta
 
-	// leitura das condicoes do banco
+	// Leitura das condições do banco:
 
     printf ( "\nInforme o numero da conta:\n");
     scanf (" %d", &conta);
@@ -47,7 +47,7 @@ int main (void)
 
 	do
 	{
-		// leitura dos valores das contas
+		// Leitura dos valores das contas:
 
 		printf ("\nInforme o valor da transacao:\n");
 		scanf ("%f", &valor);
@@ -55,7 +55,7 @@ int main (void)
 		printf ("\nInforme o tipo da transacao [D = Deposito| R = Retirada]:\n");
 		scanf (" %c", &tipo);
 
-		// verifica se e uma operacao de deposito ou retirada
+		// Verifica se é uma operação de depósito ou retirada:
 
 		if ( tipo == 'D' )
 		{
