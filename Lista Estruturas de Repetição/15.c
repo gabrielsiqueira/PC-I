@@ -71,6 +71,8 @@ int main (void)
 		trans--;
 	}while(conta!=0&&trans>0);
 
+        //Agora decide o que será mostrado:
+
 	if ( saldo < minimo )
 		{
 			saldo = saldo - saldo * taxa / 100;
