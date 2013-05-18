@@ -3,7 +3,7 @@
 
 int main (void)
 {
-  // declaracao das variaveis
+	// declaracao das variaveis
 
     float minimo;// balanco minimo diario
 	int trans = 0;// quantidade de transacoes do dia
@@ -31,7 +31,7 @@ int main (void)
 	printf ("\nInforme o valor da taxa de servico (em porcento):\n");
 	scanf("%f", &taxa);
 
-	while( trans == 0 )
+	while(trans != 0)
 	{
 		// leitura dos valores das contas
 
