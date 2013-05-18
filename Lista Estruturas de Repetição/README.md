@@ -3,65 +3,65 @@ Lista Estruturas de Repetição
 
 Os arquivos estão separados em fases, que serão identificadas nos "Commit summary", para facilitar a identificação do progresso de desenvolvimento dos mesmos. As fases estão divididas em:
 
---> Não iniciado
+--> Not Started
 
---> Em desenvolvimento ( nick do desenvolvedor )
+--> In Development ( nick do desenvolvedor )
 
---> Finalizando - Exercício pronto, mas falta: testar e / ou comentar a solução.
+--> Finishing - Exercício pronto, mas falta: testar e / ou comentar a solução.
 
---> Terminado - Exercício escrito, testado e comentado
+--> Done - Exercício escrito, testado e comentado
 
 
 ====
 
-1 - Terminado
+1 - Done
 
-2 - Terminado
+2 - Done
 
-3 - Terminado
+3 - Done
 
-4 - Finalizando
+4 - Finishing
 
-5 - Finalizando
+5 - Finishing
 
-6 - Finalizando 
+6 - Finishing 
 
-7 - Finalizando 
+7 - Finishing 
 
-8 - Finalizando
+8 - Finishing
 
-9 - Terminado (Murilo-Shindi)
+9 - Done
 
-10 - Terminado (Murilo-Shindi)
+10 - Done
 
-11 - Terminado
+11 - Done
 
-12 - Terminado (LeRaito)
+12 - Done
 
 13 - Finalizado
 
-14 - Terminado
+14 - Done
 
-15 - Em desenvolvimento (divo, lindo e tesudo LeRaito)
+15 - In Development (divo, lindo e tesudo LeRaito)
 
-16 - Terminado (Murilo-Shindi)
+16 - Done
 
-17 - Terminado
+17 - Done
 
-18 - Em desenvolvimento (Mickaella Alves)
+18 - In Development (Mickaella Alves)
 
-19 - Em desenvolvimento(Douglas Tonetto)
+19 - In Development (Douglas Tonetto)
 
-20 - Finalizando
+20 - Finishing
 
-21 - Finalizando
+21 - Finishing
 
-22 - Finalizando
+22 - Finishing
 
-23 - Terminado
+23 - Done
 
-42 - Finalizando
+42 - Finishing
 
-61 - Finalizando
+61 - Done
 
-66 - Finalizando
+66 - Finishing
