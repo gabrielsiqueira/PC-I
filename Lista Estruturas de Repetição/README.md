@@ -42,13 +42,13 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 14 - Done
 
-15 - In Development (divo, lindo e tesudo LeRaito)
+15 - Done
 
 16 - Done
 
 17 - Done
 
-18 - In Development (Mickaella Alves)
+18 - Done
 
 19 - In Development (Douglas Tonetto)
 
