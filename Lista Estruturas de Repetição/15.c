@@ -30,22 +30,22 @@ int main (void)
 	// leitura das condicoes do banco
 
     printf ( "\nInforme o numero da conta:\n");
-    scanf ("%d", &conta);
+    scanf (" %d", &conta);
 
 	printf ("\nInforme o valor do saldo atual:\n");
-	scanf ("%f", &saldo);
+	scanf (" %f", &saldo);
 
 	printf ("\nInforme o valor do balanco minimo diario:\n");
-	scanf ("%f", &minimo);
+	scanf (" %f", &minimo);
 
 	printf ("\nInforme a quantidade de transacoes:\n");
-	scanf("%d", &trans);
+	scanf(" %d", &trans);
 
 
 	printf ("\nInforme o valor da taxa de servico (em porcento):\n");
-	scanf("%f", &taxa);
+	scanf(" %f", &taxa);
 
-	while(trans > 0)
+	do
 	{
 		// leitura dos valores das contas
 
@@ -53,7 +53,7 @@ int main (void)
 		scanf ("%f", &valor);
 
 		printf ("\nInforme o tipo da transacao [D = Deposito| R = Retirada]:\n");
-		scanf ("%c", &tipo);
+		scanf (" %c", &tipo);
 
 		// verifica se e uma operacao de deposito ou retirada
 
@@ -68,10 +68,10 @@ int main (void)
 				saldo -= valor;
 			}
 		}
+		trans--;
+	}while(conta!=0&&trans>0);
 
-		// verifica situacao do balanco minimo
-
-		if ( saldo < minimo )
+	if ( saldo < minimo )
 		{
 			saldo = saldo - saldo * taxa / 100;
 
@@ -79,9 +79,6 @@ int main (void)
 		}
 		else
 		{
-			printf ("\nNUMERO DA CONTA: %d.\nSALDO FINAL: %f.\n", conta, saldo);
+			printf ("\nNUMERO DA CONTA: %d.\nSALDO FINAL: %.2f.\n", conta, saldo);
 		}
-
-		trans--; //msm q -=1 ;
-	}
 }
