@@ -58,7 +58,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 22 - Finalizando
 
-23 - Finalizando
+23 - Terminado
 
 42 - Finalizando
 
