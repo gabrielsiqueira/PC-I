@@ -45,7 +45,7 @@ int main (void)
 	printf ("\nInforme o valor da taxa de servico (em porcento):\n");
 	scanf("%f", &taxa);
 
-	while(trans != 0)
+	while(trans > 0)
 	{
 		// leitura dos valores das contas
 
@@ -82,6 +82,6 @@ int main (void)
 			printf ("\nNUMERO DA CONTA: %d.\nSALDO FINAL: %f.\n", conta, saldo);
 		}
 
-		trans -= 1;
+		trans--; //msm q -=1 ;
 	}
 }
