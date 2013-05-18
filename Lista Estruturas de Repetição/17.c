@@ -5,7 +5,7 @@ int main( void )
 	// max1 = Lucro maximo
 	// maxp = Preço do ingresso quando o lucro é maximo
 	// maxi = Numero de ingreços vendidos qnd o lucro é maximo
-	float lucro, preco = 5.0, ingresso = 120.0, maxl = .0, maxp = .0, maxi;
+	float lucro, preco = 5.0, ingresso = 120.0, maxl = .0, maxp = .0, maxi=0;
 
 	do
 	{
