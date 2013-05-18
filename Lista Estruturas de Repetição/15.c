@@ -45,7 +45,7 @@ int main (void)
 	printf ("\nInforme o valor da taxa de servico (em porcento):\n");
 	scanf(" %f", &taxa);
 
-	do
+	while (trans!=0)
 	{
 		// Leitura dos valores das contas:
 
@@ -69,7 +69,7 @@ int main (void)
 			}
 		}
 		trans--;
-	}while(conta!=0&&trans>0);
+	}
 
         //Agora decide o que será mostrado:
 
