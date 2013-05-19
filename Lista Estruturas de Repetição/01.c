@@ -1,18 +1,12 @@
-#include<stdio.h>
-#include<math.h>
-#include<string.h>
-#include<stdlib.h>
-int main()
+#include <stdio.h>
+
+int main( void )
 {
-    /*
-	z= Armazena a soma das idades digitadas.
-	y= Armazena o numero de idades digitadas.
-	*/
-    float y, z, idade;
-	idade = 1;//Garante o loop infinito.
-    z = 0;
-    y = 0;
-    while (idade != 0)
+    // z = Armazena a soma das idades digitadas.
+	// y = Armazena o numero de idades digitadas.
+	float y = 0, z = 0, idade = 1;		// idade = 1 garante o loop infinito.
+
+    while ( idade != 0 )
     {
         printf("Digite uma idade ou 0 para terminar: ");
         scanf("%f",&idade);
