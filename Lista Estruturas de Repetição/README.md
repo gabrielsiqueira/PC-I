@@ -1,4 +1,4 @@
-Lista Estruturas de Repetição
+﻿Lista Estruturas de Repetição
 ====
 
 Os arquivos estão separados em fases, que serão identificadas nos "Commit summary", para facilitar a identificação do progresso de desenvolvimento dos mesmos. As fases estão divididas em:
@@ -50,7 +50,7 @@ Os arquivos estão separados em fases, que serão identificadas nos "Commit summ
 
 18 - Done
 
-19 - In Development (Douglas Tonetto)
+19 - Done
 
 20 - Finishing
 
