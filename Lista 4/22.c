@@ -3,9 +3,9 @@ int main()
 {
   int x,y,a,b;
   float l;
-  printf("Digite o lucro na venda do rário standart: ");
+  printf("Digite o lucro na venda do radio standart: ");
   scanf("%d",&x);
-  printf("Digite o lucro na venda do rádio luxo: ");
+  printf("Digite o lucro na venda do radio luxo: ");
   scanf("%d",&y);
   if(x > (y/2))
   {
@@ -37,5 +37,5 @@ int main()
       }
     }
   }
-  printf("O lúcro máximo é: %.2f\nO número de operários na linha standart é: %d\nO número de operários na linhas luxo é: %d\nO numero de radios standart é: %d\nO numero de radios luxo é: %d",l,a,b,x,y);
+  printf("O lucro maximo e: %.2f\nO numero de operarios na linha standart e: %d\nO numero de operarios na linhas luxo e: %d\nO numero de radios standart e: %d\nO numero de radios luxo e: %d",l,a,b,x,y);
 }
