@@ -8,15 +8,11 @@ int main( void )
 	// a variavel ja tenha como valor a quatidade de dias passados do inicio do
 	// mes final ; ou seja, ans = df.
 	int di, mi, ai, mf, af, i, ans;
+	int month[ 12 ] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+	// vetor para representar os meses do ano, e seus respectivos dias
 
 	// le data inicial e data final
 	scanf( "%d %d %d %d %d %d", &di, &mi, &ai, &ans, &mf, &af );
-
-	// vetor para representar os meses do ano, e seus respectivos dias
-	int month[12];
-	month[0] = month[2] = month[4] = month[6] = month[7] = month[9] = month[11] = 31;
-	month[1] = 28;
-	month[3] = month[5] = month[8] = month[10] = 30;
 
 	// se o ano inicial < ano final
 	if ( ai < af )
@@ -71,7 +67,9 @@ int main( void )
 		{
 			++ans;		// add 1 dia se o ano for bissexto
 			i += 3;		// faz com que o laço passe a iterar de 4 em 4 anos
-		}				// assim que encontrar o 1º ano bissexto
+		}			// assim que encontrar o 1º ano bissexto
 
 	printf( "TEMPO DECORRIDOS ENTRE AS DATAS E DE = %d\n", ans );
+
+	return 0;
 }
