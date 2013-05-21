@@ -11,5 +11,5 @@ int main(){
     N++;
     }
     media=soma/N;
-    printf("\na idade media do grupo e:%f \n", media);
+    printf("\na idade media do grupo e de:%.2f anos. \n", media);
 }
