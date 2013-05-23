@@ -15,7 +15,7 @@
 
 int main(void)
 {
-    int r1, r2, teta1, teta2, flag[3];
+    int r1, r2, teta1, teta2, flag[4];
     float r3, resultado;
 
     printf ("\n[1=MULTIPLICA|2=DIVIDE] e [0=VAZIO] para interromper.\n");
@@ -25,6 +25,8 @@ int main(void)
 
     while(flag[0]!= 0)
     {
+        //Se digitar um código não correspondente entra em loop. lol
+
         if(flag[0] == 1)
         {
             printf("Digite um numero inteiro, o expoente ao qual ele sera elevado, outro inteiro e outro expoente:\n");
@@ -47,7 +49,7 @@ int main(void)
 
             r3 = r1/r2;
             resultado = pow(r3, (teta1-teta2));
-            //Aqui tá rolando um erro, não sei qual, mas está, que faz com que não mostre um resultado exato.
+            //Aqui tem que digitar números válidos, senão rola um erro.
 
             printf("\nValores obtidos: %d, %d, %d, %d", r1, teta1, r2, teta2);
             printf("\nResultado da operacao: %.1f.\n", resultado);
