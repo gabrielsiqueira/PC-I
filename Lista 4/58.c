@@ -54,6 +54,10 @@ int main(void)
 
             printf("\nDigite o valor correspondente a proxima operacao:\n");
             scanf("%d", &flag);
+            
+            else{
+                printf ("Aprenda a ler.");
+            }
 
         }
     }
