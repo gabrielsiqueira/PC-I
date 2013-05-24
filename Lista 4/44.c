@@ -11,7 +11,7 @@ int main()
     scanf("%f %f",&a,&b);
     if(a!=0 && b!=0)
     {
-      A = (b*a)/2;
+      A = (b*(-b/a))/2;
       printf("Valor de A: %g\nValor de B: %g\nValor da area: %g",a,b,A);
     }
     else
