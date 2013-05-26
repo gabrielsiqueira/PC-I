@@ -4,28 +4,29 @@
 #include<string.h>
 int main()
 {
-  int x,y;
-  x = 1;
-  while(x < 11)
-  {
-    if(x < 4)
+    float x,y;
+    x = 1;
+    while(x < 11)
     {
-      printf(Y == 1);
-    }
-    else
-    {
-      if(x == 4)
-      {
-        printf("Y = 32");
-      }
-      else
-      {
-        if(x > 4)
+        if(x < 4)
         {
-          y = pow(x,2) - 16;
-          printf("Y = %g",y);
+            printf("x = %.1f | y = 1\n",x);
         }
-      }
-      x = x + 1;
+        else
+        {
+            if(x == 4)
+            {
+                printf("x = %.1f | y = 32\n",x);
+            }
+            else
+            {
+                if(x > 4)
+                {
+                    y = (pow(x,2)) - 16;
+                    printf("x = %.1f | y = %.1f\n",x,y);
+                }
+            }
+        }
+        x = x + 1;
     }
-  }
+}
