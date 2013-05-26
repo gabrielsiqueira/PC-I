@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        x = ((d/((a*d)-(b*c)))*u) - ((b/(a*d)-(b*c))*v);
+      x = ((d/((a*d)-(b*c)))*u) - ((b/(a*d)-(b*c))*v);
       y = ((-c/((a*d)-(b*c)))*u) - ((a/(a*d)-(b*c))*v);
       printf("Para:\na = %g\nb = %g\nc = %g\nd = %g\nu = %g\nv = %g\n\nx = %g\ny = %g\n--------\n",a,b,c,d,u,v,x,y);
     }
