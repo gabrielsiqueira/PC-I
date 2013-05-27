@@ -14,7 +14,7 @@ int main()
     yn = 1; // valor da função em x0
     cont = 0;
 
-    while (cont > n){
+    while (cont < n){
 
         yn = y0 + (h * xn + yn); //
         y0 = yn;
