@@ -1,6 +1,23 @@
 #include <stdio.h>
 #include <math.h>
 
+/*  1.12.55. Dada a equação x
+3
+- 3x
+2
++ 1 = 0 , pode-se encontrar qualquer uma de su
+as raízes
+reais através de aproximações sucessivas utilizando
+a seguinte fórmula:
+             
+             Erro!
+             
+Fazer um algoritmo que:
+•
+considere como primeira aproximação X = 1,5;
+•
+calcule e escreva a trigésima aproximação da raiz */
+
 int main (void) {
 
     int i=0;
@@ -35,4 +52,6 @@ int main (void) {
 
 
     return 0;
+    
+    // usei a formula Erro! kkkkkk'
 }
