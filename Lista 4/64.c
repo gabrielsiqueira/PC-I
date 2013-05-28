@@ -4,7 +4,7 @@
 int main()
 
 {
-  int num ,i ,soma;
+  int num, i, soma;
 
     for (num = 1; num <= 100; num++)
     {
